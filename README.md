@@ -23,6 +23,22 @@ AI BRAIN Forms is an AI-powered system designed to automate Google Forms submiss
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Splash Screen
+![Splash Screen](screenshots/splash.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Arcane AI — Model Selection
+![Arcane AI](screenshots/arcane-ai.png)
+
+---
+
 ## Key Features
 
 ### 🤖 AI-Powered Answer Engine
@@ -60,7 +76,7 @@ Built-in login system with role-based access, supporting multiple users on a sha
 |----------|-------------|
 | **Frontend** | Next.js 16, React, TypeScript, TailwindCSS |
 | **Backend** | Python 3.12, FastAPI, Threading |
-| **AI / LLM** | LLM API Integration (configurable provider) |
+| **AI / LLM** | LLM API Integration (OpenRouter / Ollama) |
 | **Infrastructure** | Docker, Docker Compose |
 | **Communication** | REST API, Server-Sent Events (real-time streaming) |
 
